@@ -1,1 +1,1 @@
-other text is here
+This file is empty!
